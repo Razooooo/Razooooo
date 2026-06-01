@@ -6,7 +6,7 @@ Développeur Full-Stack basé à Toulouse et en IDF 🇫🇷
 Passionné par la conception logicielle et le développement de systèmes robustes.
 
 🎓 Intégrant le **Cycle Ingénieur de l'EFREI** (Majeure Logiciel & SI) en septembre 2026  
-🔍 À la recherche d'une **alternance en développement**
+🔍 À la recherche d'une **alternance en tant que développeur Full-Stack**
 
 ---
 
