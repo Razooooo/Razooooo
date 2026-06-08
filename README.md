@@ -10,7 +10,7 @@ Passionné par la conception logicielle et le développement de systèmes robust
 ## 💻 Stack principale :
 <p>
   <img
-    src="https://skillicons.dev/icons?i=typescript,js,java,kotlin,php,python,cs,vue,react,nodejs,expressjs,mysql"
+    src="https://skillicons.dev/icons?i=typescript,js,java,kotlin,php,python,cs,vue,react,nodejs,expressjs,mysql,mongo"
     alt="compétences"
   />
 </p>
