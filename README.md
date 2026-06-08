@@ -11,8 +11,8 @@ Passionné par la conception logicielle et le développement de systèmes robust
 <p>
   <img
 src="[https://skillicons.dev/icons?i=php,laravel,js,nodejs,angular,mysql,python,java,cs](https://skillicons.dev/icons?i=typescript,js,java,kotlin,php,python,cs,vue,react,nodejs,expressjs,mysql)"
-alt="compétences"
   />
+alt="compétences"
 </p>
 
 ---
