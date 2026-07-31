@@ -33,7 +33,7 @@
 <h2>🚀 Actuellement</h2>
 
 <p>
-  À la recherche d'une alternance en développement informatique pour la rentrée de septembre 2026 
+  À la recherche d'une alternance à Paris ou Toulouse en développement informatique pour la rentrée de septembre 2026 
   dans le cadre de mon <b>Mastère Dev. Manager Full Stack</b> à l'<b>EFREI</b>
 </p>
 
