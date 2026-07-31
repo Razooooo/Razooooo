@@ -3,7 +3,7 @@
 <div align="center">
   <h1>👋 Bonjour, moi c'est Nathan Razafindrakoto</h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack;JavaScript+%C2%B7+Vue+%C2%B7+Node.js;%C3%80+la+recherche+d%27une+alternance+%F0%9F%9A%80" alt="Développeur Full-Stack" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack+Junior;JavaScript+%C2%B7+Vue+%C2%B7+Node.js;%C3%80+la+recherche+d%27une+alternance+%F0%9F%9A%80" alt="Développeur Full-Stack" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/Toulouse%20%2F%20IDF-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localisation" />
@@ -14,7 +14,7 @@
 <h2>🎯 À propos</h2>
 
 <p>
-  Développeur <b>Full-Stack</b> basé à Toulouse et en Île-de-France 🇫🇷<br />
+  Développeur <b>Full-Stack</b> Junior basé à Toulouse et en Île-de-France 🇫🇷<br />
   Passionné par la conception logicielle et le développement de systèmes robustes.
 </p>
 
