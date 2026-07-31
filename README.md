@@ -11,8 +11,6 @@
   </p>
 </div>
 
-<div align="center">
-
 <h2>🎯 À propos</h2>
 
 <p>
@@ -20,51 +18,53 @@
   Passionné par la conception logicielle et le développement de systèmes robustes.
 </p>
 
-<p><i>« Du code lisible aujourd'hui, maintenable demain. »</i></p>
+<blockquote>
+  <i>Du code lisible aujourd'hui, maintenable demain.</i>
+</blockquote>
 
 <h2>💻 Stack technique</h2>
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,php,python,cs&theme=dark" alt="Langages" />
-<br />
-<img src="https://skillicons.dev/icons?i=vue,react,nodejs,express,mysql,mongodb,git&theme=dark" alt="Frameworks et outils" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,php,python,cs&theme=dark" alt="Langages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,express,mysql,mongodb,git&theme=dark" alt="Frameworks et outils" />
+</div>
 
 <h2>🚀 Actuellement</h2>
 
 <p>
-  <b>Stage développeur JavaScript Fullstack</b> @ Buddl, Toulouse<br />
-  <i>fév. 2026 → juil. 2026</i>
+  À la recherche d'une alternance en développement informatique pour la rentrée de septembre 2026 
+  dans le cadre de mon <b>Mastère Dev. Manager Full Stack</b> à l'<b>EFREI</b>
 </p>
 
 <h2>🛠️ Projets</h2>
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
       <h3>🏥 NurseCare</h3>
       <p>Application web de gestion pour cabinet d'infirmiers.</p>
-      <p>
-        Gestion des tournées<br />
-        Suivi des traitements<br />
-        Génération de factures PDF
-      </p>
+      <ul>
+        <li>Gestion des tournées</li>
+        <li>Suivi des traitements</li>
+        <li>Génération de factures PDF</li>
+      </ul>
       <p><b>Vue.js</b> · <b>Express.js</b> · <b>TypeScript</b></p>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
       <h3>📦 Carist-SI</h3>
       <p>Gestion des stocks et emplacements de colis.</p>
-      <p>
-        Gestion des emplacements<br />
-        Traçabilité des colis<br />
-        Suivi d'inventaire
-      </p>
+      <ul>
+        <li>Gestion des emplacements</li>
+        <li>Traçabilité des colis</li>
+        <li>Suivi d'inventaire</li>
+      </ul>
       <p><b>Kotlin</b> · <b>Ktor</b></p>
     </td>
   </tr>
 </table>
 
-</div>
-
-<h2 align="center">📫 Me contacter</h2>
+<h2>📫 Me contacter</h2>
 
 <div align="center">
   <a href="https://razooooo.github.io/Portfolio/">
