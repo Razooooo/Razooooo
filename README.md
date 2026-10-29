@@ -15,7 +15,7 @@
 
 <p>
   Développeur <b>Full-Stack</b> Junior basé à Toulouse et en Île-de-France 🇫🇷<br />
-  Passionné par la conception logicielle et le développement de systèmes robustes.
+  Passionné par le développement de logicielle web.
 </p>
 
 <blockquote>
