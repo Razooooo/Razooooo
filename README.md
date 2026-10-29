@@ -25,7 +25,7 @@
 <h2>💻 Stack technique</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,php,python,cs&theme=dark" alt="Langages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,python" alt="Langages" />
   <br />
   <img src="https://skillicons.dev/icons?i=vue,react,nodejs,express,mysql,mongodb,git&theme=dark" alt="Frameworks et outils" />
 </div>
